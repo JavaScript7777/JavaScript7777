@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JavaScript7777
 - 👀 I’m interested in computer engineering
-- 🌱 I’m currently learning how to program a ti-84
-- 📫 How to reach me don't
+- 🌱 I’m currently learning how to code java
+- 📫 How to reach me
 
 <!---
 JavaScript7777/JavaScript7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
