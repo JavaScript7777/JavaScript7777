@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JavaScript7777
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning how to code java
+- 🌱 I’m currently learning javaFX
 <!--- - 📫 How to reach me --->
 
 <!---
